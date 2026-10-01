@@ -1,4 +1,4 @@
 [submodule "3rdparty/Megatron-LM"]
 	path = 3rdparty/Megatron-LM
 	url = git@github.com:sidsingh-nvidia/Megatron-LM.git
-	branch = sidsingh/nemorl-with-minf+router-replay
+	branch = sidsingh/router-replay-async-sched-v2
